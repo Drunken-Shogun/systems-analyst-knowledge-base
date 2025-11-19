@@ -3,11 +3,13 @@
 		{"id":"8b372bb9e0913a58","type":"text","text":"# 1 Введение в СА\n[[1 Введение в СА|Перейти]]","x":-220,"y":-40,"width":288,"height":94,"color":"6"},
 		{"id":"b1618cf792ae3230","type":"text","text":"## Жизненный цикл разработки ПО\n[[Жизненный цикл разработки программного обеспечения|Перейти]]","x":260,"y":-4,"width":280,"height":117,"color":"1"},
 		{"id":"5738383e49185a7c","type":"text","text":"## СА. Краткий гайд по профессии\n[[СА. Краткий гайд по профессии|Перейти]]","x":-660,"y":7,"width":260,"height":120,"color":"1"},
-		{"id":"c8cd0f356f49ae8c","type":"text","text":"# 2.1 Концепция и границы системы\n[[2.1 Концепция и границы системы|Перейти]]","x":-219,"y":180,"width":287,"height":120,"color":"6"}
+		{"id":"c8cd0f356f49ae8c","type":"text","text":"# 2.1 Концепция и границы системы\n[[2.1 Концепция и границы системы|Перейти]]","x":-219,"y":160,"width":287,"height":120,"color":"6"},
+		{"id":"9fc7846738dd666e","type":"text","text":"# 2.2 Сбор бизнес-требований\n[[2.2 Сбор бизнес-требований|Перейти]]","x":-219,"y":380,"width":287,"height":120,"color":"6"}
 	],
 	"edges":[
 		{"id":"52653f99d55cc42f","fromNode":"8b372bb9e0913a58","fromSide":"right","toNode":"b1618cf792ae3230","toSide":"left"},
 		{"id":"76f592759d4681e1","fromNode":"8b372bb9e0913a58","fromSide":"left","toNode":"5738383e49185a7c","toSide":"right"},
-		{"id":"215ae0330cd22860","fromNode":"8b372bb9e0913a58","fromSide":"bottom","toNode":"c8cd0f356f49ae8c","toSide":"top"}
+		{"id":"215ae0330cd22860","fromNode":"8b372bb9e0913a58","fromSide":"bottom","toNode":"c8cd0f356f49ae8c","toSide":"top"},
+		{"id":"6a44b864f82f0878","fromNode":"c8cd0f356f49ae8c","fromSide":"bottom","toNode":"9fc7846738dd666e","toSide":"top"}
 	]
 }
