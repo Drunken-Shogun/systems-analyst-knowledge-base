@@ -6,7 +6,9 @@
 		{"id":"c8cd0f356f49ae8c","type":"text","text":"# 2.1 Концепция и границы системы\n[[2.1 Концепция и границы системы|Перейти]]","x":-219,"y":160,"width":287,"height":140,"color":"6"},
 		{"id":"9fc7846738dd666e","type":"text","text":"# 2.2 Сбор бизнес-требований\n[[2.2 Сбор бизнес-требований|Перейти]]","x":-219,"y":380,"width":287,"height":140,"color":"6"},
 		{"id":"2c3ddce514467bfb","type":"text","text":"# Подготовка к сбору требований\n[[Подготовка к сбору требований|Перейти]]","x":255,"y":300,"width":300,"height":140,"color":"1"},
-		{"id":"998f8430cc3f506c","x":270,"y":500,"width":270,"height":125,"color":"1","type":"text","text":"# Техники сбора требований\n[[Техники сбора требований|Перейти]]"}
+		{"id":"998f8430cc3f506c","type":"text","text":"# Техники сбора требований\n[[Техники сбора требований|Перейти]]","x":270,"y":500,"width":270,"height":125,"color":"1"},
+		{"id":"b9e657457226d216","type":"text","text":"# Интервью - подготовка и проведение\n[[Интервью - подготовка и проведение|Перейти]]","x":680,"y":325,"width":360,"height":125,"color":"1"},
+		{"id":"8ced01a4e00182b8","type":"text","text":"# Анкетирование\n[[Анкетирование|Перейти]]","x":680,"y":515,"width":320,"height":95,"color":"1"}
 	],
 	"edges":[
 		{"id":"52653f99d55cc42f","fromNode":"8b372bb9e0913a58","fromSide":"right","toNode":"b1618cf792ae3230","toSide":"left"},
@@ -15,6 +17,8 @@
 		{"id":"6a44b864f82f0878","fromNode":"c8cd0f356f49ae8c","fromSide":"bottom","toNode":"9fc7846738dd666e","toSide":"top"},
 		{"id":"3da8faab291de102","fromNode":"9fc7846738dd666e","fromSide":"right","toNode":"2c3ddce514467bfb","toSide":"left"},
 		{"id":"2d9925c37eb531b7","fromNode":"9fc7846738dd666e","fromSide":"right","toNode":"998f8430cc3f506c","toSide":"left"},
-		{"id":"4c3644bd545e5966","fromNode":"2c3ddce514467bfb","fromSide":"bottom","toNode":"998f8430cc3f506c","toSide":"top"}
+		{"id":"4c3644bd545e5966","fromNode":"2c3ddce514467bfb","fromSide":"bottom","toNode":"998f8430cc3f506c","toSide":"top"},
+		{"id":"b8806beff6f84e82","fromNode":"998f8430cc3f506c","fromSide":"right","toNode":"b9e657457226d216","toSide":"left"},
+		{"id":"285e5777f0995e1b","fromNode":"998f8430cc3f506c","fromSide":"right","toNode":"8ced01a4e00182b8","toSide":"left"}
 	]
 }
