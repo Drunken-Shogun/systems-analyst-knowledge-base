@@ -23,7 +23,7 @@
 Данный репозиторий является хранилищем для программы [Obsidian](https://obsidian.md/), потому чтобы использовать его с комфортом нужно проделать следующие действия:
 
 1. Установить Obsidian: https://obsidian.md/download
-2. Установите Git если у вас он ещё не установлен: [https://git-scm.com/downloads](https://git-scm.com/downloads). Не пугайтесь сложности, [здесь вы найдёте подробный рассказ об установке](https://selectel.ru/blog/tutorials/how-to-install-git-to-windows/#get-install-windows). После установки в командной строке задайте ваше имя и email, для Git при помощи команд:
+2. Установите Git если у вас он ещё не установлен: [https://git-scm.com/downloads](https://git-scm.com/downloads). Не пугайтесь сложности, [здесь вы найдёте подробный рассказ об установке](https://selectel.ru/blog/tutorials/how-to-install-git-to-windows/#get-install-windows). После установки в командной строке задайте ваше имя и email для Git при помощи команд:
 ```
 git config --global user.email МОЙ-EMAIL
 git config --global user.name МОЁ-ИМЯ
@@ -31,13 +31,13 @@ git config --global user.name МОЁ-ИМЯ
 3. Клонируйте репозиторий на ваш компьютер.
 Для этого зайди в командную строку Windows и пропишите:
 ```PowerShell
-cd путь к папке # в которой будет располагаться ваша база данных Obsidian
+cd путь_к_папке # в которой будет располагаться ваша база данных Obsidian
 git clone https://github.com/Drunken-Shogun/systems-analyst-knowledge-base.git
 ```
 4. Откройте Obsidian, выберите пункт "Открыть папку как хранилище" и укажите путь к клонированному репозиторию.
 5. Чтобы в будущем обновить эту базу до актуального состояния введите:
 ```PowerShell
-cd путь к папке # в которой находится хранилище
+cd путь_к_папке # в которой находится хранилище
 git pull
 ```
 
