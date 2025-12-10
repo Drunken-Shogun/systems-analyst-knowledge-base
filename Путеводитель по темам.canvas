@@ -12,7 +12,8 @@
 		{"id":"b1618cf792ae3230","type":"text","text":"## Жизненный цикл разработки ПО\n[[Жизненный цикл разработки программного обеспечения|Перейти]]","x":212,"y":-4,"width":280,"height":117,"color":"1"},
 		{"id":"5738383e49185a7c","type":"text","text":"## СА. Краткий гайд по профессии\n[[СА. Краткий гайд по профессии|Перейти]]","x":-659,"y":-4,"width":260,"height":120,"color":"1"},
 		{"id":"2ecc2f096ec041c8","type":"text","text":"# Диаграмма Исикавы\n[[Диаграмма Исикавы|Перейти]]","x":-920,"y":635,"width":320,"height":115,"color":"1"},
-		{"id":"79e097f238a63d97","type":"text","text":"# Impact Mapping\n[[Impact Mapping|Перейти]]","x":-920,"y":803,"width":320,"height":115,"color":"1"}
+		{"id":"79e097f238a63d97","type":"text","text":"# Impact Mapping\n[[Impact Mapping|Перейти]]","x":-920,"y":803,"width":320,"height":115,"color":"1"},
+		{"id":"7a30e1a64f2d1ffd","type":"text","text":"# 3.2 Описание вариантов использования (Use case)\n[[3.2 Описание вариантов использования (Use case)|Перейти]]","x":-418,"y":1040,"width":399,"height":137,"color":"6"}
 	],
 	"edges":[
 		{"id":"52653f99d55cc42f","fromNode":"8b372bb9e0913a58","fromSide":"right","toNode":"b1618cf792ae3230","toSide":"left"},
@@ -27,6 +28,7 @@
 		{"id":"d89814d83889e260","fromNode":"998f8430cc3f506c","fromSide":"right","toNode":"7a48cbc9034bf8be","toSide":"left"},
 		{"id":"57931473cc24a140","fromNode":"9fc7846738dd666e","fromSide":"bottom","toNode":"8e30322dfd5c4174","toSide":"top"},
 		{"id":"4d24f1f696f68f1e","fromNode":"8e30322dfd5c4174","fromSide":"left","toNode":"2ecc2f096ec041c8","toSide":"right"},
-		{"id":"bffb56300bd93ef0","fromNode":"8e30322dfd5c4174","fromSide":"left","toNode":"79e097f238a63d97","toSide":"right"}
+		{"id":"bffb56300bd93ef0","fromNode":"8e30322dfd5c4174","fromSide":"left","toNode":"79e097f238a63d97","toSide":"right"},
+		{"id":"1f7f20a9da2563de","fromNode":"8e30322dfd5c4174","fromSide":"bottom","toNode":"7a30e1a64f2d1ffd","toSide":"top"}
 	]
 }

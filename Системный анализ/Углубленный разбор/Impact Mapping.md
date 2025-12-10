@@ -50,6 +50,6 @@
 ![|1000](https://babok-school.ru/wp-content/uploads/2023/10/imus2.png)
 ![](https://doitsmartly.ru/images/impact-mapping---example.png)
 
-> [!example]- Дополнительные материалы: 
+> [!example] Дополнительные материалы: 
 >1. [Цели по Smart, Story по INVEST: быстрая разработка концепции решения с техникой Impact Map](https://babok-school.ru/blog/ishikawa-diagram-and-impact-map-for-fast-business-analysis/)
 >2. [Impact Mapping на практике](https://habr.com/ru/articles/246401/?ysclid=miw2uzdfya737369395)
